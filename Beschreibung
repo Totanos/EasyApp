@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen auf meiner Website</title>
+</head>
+<body>
+    <header>
+        <h1>Herzlich Willkommen!</h1>
+    </header>
+    <section>
+        <p>Dies ist der Start meiner persönlichen Webseite auf GitHub Pages. Hier werde ich meine Projekte und Ideen teilen.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 by Dein Name. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
